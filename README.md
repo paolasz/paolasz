@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Information Systems Engineer, university professor, researcher, venturing into the world of data science
+
+
 <!--
 **paolasz/paolasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
